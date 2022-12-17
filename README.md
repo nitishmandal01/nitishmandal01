@@ -1,6 +1,6 @@
 <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
-<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohammad Mubarak </h1>
+<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nitish Mandal</h1>
 
 <h3><samp><strong>I'm currently learning Full-Stack Web Development. I’m looking to collaborate projects. I like to design websites and solving problems that I face while creating it. </strong></samp></h3> 
 <h4><i>To know more visit here...<a href="#">Portfolio</a></i> 😊</h4>
@@ -31,15 +31,15 @@
  
  
  <p align="left">
-  <a href="#" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
-  <a title="md6444222@gmail.com" href="mailto:md6444222@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&emsp;
-  <a href="https://wa.me/+918800732325" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>&emsp;
+  <a href="https://www.linkedin.com/in/thenitishmandal/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
+  <a title="md6444222@gmail.com" href="mailto:neelgiri65@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&emsp;
+  <a href="https://wa.me/+919718299580" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>&emsp;
   <a href="#" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>&emsp;
   
 </p>
 
 
-<img src ="https://github.com/Mohammad-Mubarak/Mohammad-Mubarak/blob/master/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
+<img src ="https://github.com/nitishmandal01/blob/master/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 
 <br>
 <br>
@@ -78,7 +78,7 @@
  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
  <br/>
- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+<!--  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp; -->
            
 </p>
 <hr>
@@ -101,7 +101,7 @@
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Mohammad-Mubarak}/count.svg" alt="Mohammad-Mubarak :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{nitishmandal01}/count.svg" alt="nitishmandal01 :: Visitor's Count" /></p>
 
 <hr>
 
@@ -116,31 +116,31 @@
 
 
 <p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Mubarak&theme=chartreuse-dark"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishmandal01&theme=chartreuse-dark"  />
 </p>
 
 
 <p>
-<a href="https://github.com/Mohammad-Mubarak"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad-Mubarak&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/><br/><br/><br/><br/><br/><br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Mubarak&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<a href="https://github.com/nitishmandal01"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishmandal01&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/><br/><br/><br/><br/><br/><br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nitishmandal01&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr clear="both"> 
  <br/><br/><br/>
 <p align="center">
-<a href="https://github.com/Mohammad-Mubarak"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Mubarak&theme=dracula" />
+<a href="https://github.com/nitishmandal01"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitishmandal01&theme=dracula" />
 </span></a> </p>
 
 
  <br/>
 <!-- GitHub Cup's   -->
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Mubarak&theme=vue" alt=""/> </p>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=nitishmandal01&theme=vue" alt=""/> </p>
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohammad-Mubarak&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nitishmandal01&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
 
 <hr clear="both">
