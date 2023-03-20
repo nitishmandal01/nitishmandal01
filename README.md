@@ -38,7 +38,7 @@
 </p>
 
 
-<img src ="https://github.com/nitishmandal01/blob/master/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
+<!-- <img src ="https://github.com/nitishmandal01/blob/master/Images/imhd.gif?raw=true" align="right" width="260" height="260" /> -->
 
 <br>
 <br>
