@@ -110,18 +110,14 @@
 <br/><br/><br/><br/>
 <hr clear="both"> 
  <br/><br/><br/>
-<p align="center">
-<a href="https://github.com/nitishmandal01"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitishmandal01&theme=dracula" />
-</span></a> </p>
+
 
 
  <br/>
-GitHub Cup's  
+<b><i>GitHub Cup's</i></b>
  <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=nitishmandal01&theme=vue" alt=""/> </p>
  <br/>
  
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nitishmandal01&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  -->
 
 
 <hr clear="both">
