@@ -8,7 +8,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-<!-- - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br> -->
+- 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 
 - 🛠 I’m currently learning about **JAVA**🥰<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
