@@ -6,7 +6,6 @@
 
 <hr>
 
-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 <!-- - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br> -->
@@ -38,20 +37,12 @@
 </p>
 
 
-<!-- <img src ="https://github.com/nitishmandal01/blob/master/Images/imhd.gif?raw=true" align="right" width="260" height="260" /> -->
-
 <br>
 <br>
 
  <hr>
  <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
 <p >
-
- 
- <!-- - 
- 
-
- -->
 
 
   
