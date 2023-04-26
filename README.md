@@ -89,8 +89,7 @@
 <p>
 <a href="https://github.com/nitishmandal01"><span>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishmandal01&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/><br/><br/><br/><br/><br/><br/>
-<!-- <a> <img align="left" src="https://github-readme-stats.vercel.app/api?username=nitishmandal01&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
-</span></a>  -->
+</a>
  </p>
 
 <br/><br/><br/><br/>
