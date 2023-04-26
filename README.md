@@ -80,28 +80,30 @@
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
 
-
-<p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishmandal01&theme=chartreuse-dark"  />
-</p>
-
-
-<p>
-<a href="https://github.com/nitishmandal01"><span>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishmandal01&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/><br/><br/><br/><br/><br/><br/>
-</a>
- </p>
-
-<br/><br/><br/><br/>
-<hr clear="both"> 
- <br/><br/><br/>
-
-
-
- <br/>
-<b><i>GitHub Cup's</i></b>
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=nitishmandal01&theme=vue" alt=""/> </p>
- <br/>
+<div>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitishmandal01&theme=2077" width="46%" />
+  <br/>
+  <br/>
+    <br/>
+  <br/>
+<img align="right" src="https://streak-stats.demolab.com/?user=nitishmandal01&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
+</div>
+<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitishmandal01&theme=2077" width="45%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitishmandal01&theme=2077" width="45%" />
+</div>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">                                                                                         
+                                                                                                                             
+ <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nitishmandal01&theme=react-dark&hide_border=true" /></a>    
+  
+  <div align="center">    
+<img src="https://github-profile-trophy.vercel.app/?username=nitishmandal01&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
  
 
 
