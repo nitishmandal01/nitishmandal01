@@ -26,7 +26,6 @@
   
  <p>
  
- 
  <p align="left">
   <a href="https://www.linkedin.com/in/thenitishmandal/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
   <a title="neelgiri65@gmail.com" href="mailto:neelgiri65@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&emsp;
