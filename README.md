@@ -81,19 +81,19 @@
 </p>
 
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitishmandal01&theme=2077" width="46%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitishmandal01&theme=2077" width="35%" />
   <br/>
   <br/>
     <br/>
   <br/>
-<img align="right" src="https://streak-stats.demolab.com/?user=nitishmandal01&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
+<img align="right" src="https://streak-stats.demolab.com/?user=nitishmandal01&_border=true&theme=dark&hide_border=true&theme=react" width="65%" />
 </div>
 <br/>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitishmandal01&theme=2077" width="45%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitishmandal01&theme=2077" width="45%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitishmandal01&theme=2077" width="35%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitishmandal01&theme=2077" width="35%" />
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
