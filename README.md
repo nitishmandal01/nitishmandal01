@@ -4,7 +4,9 @@
 
 <h3><samp><strong>I'm currently learning Full-Stack Web Development. I’m looking to collaborate projects. I like to design websites and solving problems that I face while creating it. </strong></samp></h3> 
 
+
 <hr>
+
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me .....***
 
@@ -19,7 +21,9 @@
 
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Just do it!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
+
  <hr>
+
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....*** 
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
