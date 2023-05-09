@@ -90,9 +90,12 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
+ 
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitishmandal01&theme=2077" width="40%" />
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitishmandal01&theme=2077" width="40%" />
+ 
 </div>
+
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">                                                                                         
