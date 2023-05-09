@@ -74,9 +74,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{nitishmandal01}/count.svg" alt="nitishmandal01 :: Visitor's Count" /></p>
 
 <hr>
-
  <img align="right" width=200px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
