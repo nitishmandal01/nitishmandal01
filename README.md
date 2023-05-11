@@ -108,9 +108,7 @@
   <div align="center">    
 <img src="https://github-profile-trophy.vercel.app/?username=nitishmandal01&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
  
-
 <hr clear="both">
-
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
 
