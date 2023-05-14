@@ -33,7 +33,9 @@
   
   <a href="https://wa.me/+919718299580" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>&emsp;
 </p>
+
 <br>
+
 <br>
  <hr>
  <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
