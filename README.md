@@ -37,7 +37,9 @@
 <br>
 
 <br>
+
  <hr>
+ 
  <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
 <p >
 
