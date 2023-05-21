@@ -82,9 +82,13 @@
 <div>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitishmandal01&theme=2077" width="35%" />
   <br/>
+ 
   <br/>
+ 
     <br/>
+ 
   <br/>
+ 
 <img align="right" src="https://streak-stats.demolab.com/?user=nitishmandal01&_border=true&theme=dark&hide_border=true&theme=react" width="65%" />
 </div>
 <br/>
