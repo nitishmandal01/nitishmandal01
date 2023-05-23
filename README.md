@@ -103,8 +103,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">                                                                                         
                                                                                                                              
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nitishmandal01&theme=react-dark&hide_border=true" /></a>    
+<!--  <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nitishmandal01&theme=react-dark&hide_border=true" /></a>     -->
   
   <div align="center">    
 <img src="https://github-profile-trophy.vercel.app/?username=nitishmandal01&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
