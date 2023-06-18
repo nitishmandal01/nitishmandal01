@@ -104,7 +104,7 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">                                                                                         
-                                                                                                                             
+                                                                                                                   
 <!--  <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nitishmandal01&theme=react-dark&hide_border=true" /></a>     -->
   
