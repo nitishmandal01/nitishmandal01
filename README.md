@@ -4,7 +4,7 @@
 
 <h3>
 
- <samp><strong>I'm currently learning Full-Stack Web Development. I’m looking to collaborate projects. I like to design websites and solving problems that I face while creating it. </strong></samp>
+ <samp><strong>Versatile Full Stack Java Developer and adept prompt engineer. Looking to collaborate on projects. I like to design websites and solve problems that I face while creating them. Proficient in Java, Spring Boot, HTML, CSS, JavaScript, and more. Bridging code and creativity, with a unique background in Digital Marketing and WordPress development. Ready to engineer solutions that resonate </strong></samp>
 </h3> 
 
 <hr>
